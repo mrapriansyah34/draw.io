@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T06:38:13.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lw5B47Cp40uyUoS6SUpU" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:33:22.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nHQzfjN8-dCQuE9dIvc_" version="23.1.6" type="github">
   <diagram name="Page-1" id="n7LMPVPGlL7gW6K4m0xU">
-    <mxGraphModel dx="2625" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2350" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-184" target="qvGo7-0NnfbWmTZy4n0L-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1345" y="1950" />
+              <mxPoint x="1025" y="1950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-92" target="qvGo7-0NnfbWmTZy4n0L-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1595" y="2120" />
+              <mxPoint x="1380" y="2120" />
+              <mxPoint x="1380" y="1930" />
+              <mxPoint x="1050" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-159" target="qvGo7-0NnfbWmTZy4n0L-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="2060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1065" y="1960" />
+              <mxPoint x="1001" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-42" target="qvGo7-0NnfbWmTZy4n0L-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="2030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="777" y="1960" />
+              <mxPoint x="910" y="1960" />
+              <mxPoint x="910" y="2030" />
+              <mxPoint x="909" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.786;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=classic;endFill=1;startArrow=classicThin;startFill=1;exitX=0.01;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-39" target="qvGo7-0NnfbWmTZy4n0L-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001" y="1710" />
+              <mxPoint x="918" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-42" target="qvGo7-0NnfbWmTZy4n0L-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="1710" />
+              <mxPoint x="904" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-121" target="qvGo7-0NnfbWmTZy4n0L-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-105" target="qvGo7-0NnfbWmTZy4n0L-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -27,39 +84,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-37" target="qvGo7-0NnfbWmTZy4n0L-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1119" y="1090" />
-              <mxPoint x="436" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-36" target="qvGo7-0NnfbWmTZy4n0L-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="976" y="1080" />
-              <mxPoint x="410" y="1080" />
-              <mxPoint x="410" y="860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-35" target="qvGo7-0NnfbWmTZy4n0L-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="679" y="1060" />
-              <mxPoint x="399" y="1060" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-31" target="qvGo7-0NnfbWmTZy4n0L-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="829" y="1070" />
-              <mxPoint x="424" y="1070" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-59" target="qvGo7-0NnfbWmTZy4n0L-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -68,24 +92,6 @@
             </Array>
             <mxPoint x="1167" y="613" as="sourcePoint" />
             <mxPoint x="827" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-95" target="qvGo7-0NnfbWmTZy4n0L-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411" y="810" as="sourcePoint" />
-            <mxPoint x="340" y="179" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="411" y="179" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" edge="1" parent="1" target="qvGo7-0NnfbWmTZy4n0L-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="539.9999999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="440" y="540" />
-              <mxPoint x="440" y="436" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;jumpStyle=arc;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-89" target="qvGo7-0NnfbWmTZy4n0L-48">
@@ -207,15 +213,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-39" target="qvGo7-0NnfbWmTZy4n0L-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590.74" y="450" as="sourcePoint" />
-            <mxPoint x="798" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="591" y="333" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;startArrow=classic;startFill=1;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-35" target="qvGo7-0NnfbWmTZy4n0L-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="477" y="960" as="sourcePoint" />
@@ -240,7 +237,7 @@
             <mxPoint x="654" y="892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-30" target="qvGo7-0NnfbWmTZy4n0L-45">
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-30" target="qvGo7-0NnfbWmTZy4n0L-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-29" value="&lt;p style=&quot;line-height: normal; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;MDR&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-family: Calibri; font-weight: bold;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;https://datamigas.esdm.go.id&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="qvGo7-0NnfbWmTZy4n0L-28">
@@ -249,21 +246,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-30" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#e9c40c&quot;&gt;Internet Access Public&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=9;image=img/lib/active_directory/internet_cloud.svg;labelBorderColor=none;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="863" y="810" width="63.49" height="40" as="geometry" />
+          <mxGeometry x="870" y="1210" width="63.49" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-31" value="PUSDATIN" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;labelBackgroundColor=default;fontSize=10;spacingTop=3;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="806" y="990" width="46" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-45" target="qvGo7-0NnfbWmTZy4n0L-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-42" target="qvGo7-0NnfbWmTZy4n0L-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-34" value="Setelah menekan tombol Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" connectable="0" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-33">
-          <mxGeometry x="-0.5288" y="-2" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-35" value="User/Calon Member" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="656" y="990" width="46" height="45" as="geometry" />
@@ -275,31 +261,13 @@
           <mxGeometry x="1096" y="990" width="46" height="45" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-38" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="565.74" y="406" width="188.26" height="80" as="geometry" />
+          <mxGeometry x="1000" y="1789" width="188.26" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-39" value="&lt;b&gt;Portal&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;.Net Core + NGINX" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-38">
           <mxGeometry y="10" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-40" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Portal&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.63&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 16 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 70 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-38">
           <mxGeometry x="48.25999999999999" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-41" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="565.74" y="550" width="203.26" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-42" value="&lt;b&gt;Landing Page&lt;/b&gt; /&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;Strapi" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-41">
-          <mxGeometry y="10" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-43" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Landing Page Strapi&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.63&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 16 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 130 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-41">
-          <mxGeometry x="53.25999999999999" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-44" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="565.74" y="690" width="187.26" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-45" value="&lt;b&gt;Web Reverse Proxy &lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;NGINX" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;labelBorderColor=default;spacingTop=11;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-44">
-          <mxGeometry y="8" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-46" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Reverse Proxy&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.60&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 32 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 260 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-44">
-          <mxGeometry x="47.25999999999999" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-47" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="867" y="303" width="188.26" height="80" as="geometry" />
@@ -343,11 +311,14 @@
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-60" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1135" y="49" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-61" value="&lt;b&gt;Database&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Oracle 11g R2 &amp;amp; PostgreSQL&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-60">
-          <mxGeometry x="-20" y="13" width="50" height="40" as="geometry" />
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-165" value="" style="group" vertex="1" connectable="0" parent="qvGo7-0NnfbWmTZy4n0L-60">
+          <mxGeometry x="-20" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-62" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Database&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.72&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;RAM : 64 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 1020 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-60">
-          <mxGeometry x="45" width="140" height="80" as="geometry" />
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-61" value="&lt;b&gt;Database&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Oracle 11g R2 &amp;amp; PostgreSQL&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-165">
+          <mxGeometry y="13" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-62" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Database&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.72&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;RAM : 64 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 1020 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-165">
+          <mxGeometry x="65" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-63" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1311.26" y="415" width="182.74" height="80" as="geometry" />
@@ -394,16 +365,6 @@
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-77" value="&lt;b&gt;Identity Access Management&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Keycloak + ApacheDS" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-75">
           <mxGeometry x="197" y="13" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-92" target="qvGo7-0NnfbWmTZy4n0L-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334.0000000000002" y="697.0769230769229" as="sourcePoint" />
-            <mxPoint x="565.7399999999998" y="451" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="662" />
-              <mxPoint x="450" y="451" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.245;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="324" y="373" as="sourcePoint" />
@@ -414,23 +375,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-80" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1. Login / Logout /&amp;nbsp;Request Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;strokeWidth=1;rounded=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="301" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-81" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;2. Request Auth&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;strokeWidth=1;rounded=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="128" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-82" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;3. Response Auth&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=1;rounded=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="162" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-83" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;4. Response Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=1;rounded=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="335" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-84" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Sharing Folder Temp - 100 GB&lt;/b&gt;&lt;br&gt;NetApp&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=7;image=img/lib/active_directory/database.svg;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="50" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-85" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Copy Data Digital&lt;br style=&quot;&quot;&gt;Folder Temp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="228" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-74" target="qvGo7-0NnfbWmTZy4n0L-84">
           <mxGeometry relative="1" as="geometry">
@@ -448,26 +394,8 @@
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-89" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Document Viewer&lt;/b&gt;&lt;br&gt;.Net + IIS" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=6;fontSize=12;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-87">
           <mxGeometry x="145" y="13" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-90" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="140" y="632" width="222" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-91" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server ArcGIS&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Ubuntu&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.31&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : unknown&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : unknown&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-90">
-          <mxGeometry width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-92" value="&lt;b&gt;Map/Peta&lt;/b&gt;&lt;br&gt;ArcGIS" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=6;fontSize=12;labelBorderColor=default;spacingLeft=0;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-90">
-          <mxGeometry x="144" y="10" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-93" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Copy Data Digital&lt;br style=&quot;&quot;&gt;Folder Temp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="465.74" y="338" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-94" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Access Personal Directory&lt;br style=&quot;&quot;&gt;Download Data Digital&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="970" width="140" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-95" value="VPN Access" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client_vpn;spacingTop=11;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="386" y="810" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-96" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Menambahkan berita maupun informasi dasar MDR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#ffebb8;fillColor=#FFB570;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="708.49" y="661" width="250" height="30" as="geometry" />
+          <mxGeometry x="510" y="1240" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-97" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1270" y="640" width="189.26" height="80" as="geometry" />
@@ -481,20 +409,161 @@
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-100" value="2024/2/26" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1550" y="13" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-101" value="Update Membership Type to&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Keycloak&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;DSpace&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;ERP-Next - Membership&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left; font-size: 10px;&quot;&gt;ex : Observer to Member&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#ffebb8;fillColor=#FFB570;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="680" width="170" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-102" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;Publish API to Runtime Server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0080;fillColor=default;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1093" y="518" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-103" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;Publish Job to Job Server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF0080;fillColor=default;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1098" y="417" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qvGo7-0NnfbWmTZy4n0L-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Delete File in&lt;br style=&quot;&quot;&gt;Folder Temp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="1288" y="383" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="qvGo7-0NnfbWmTZy4n0L-105" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Data Digital Storage&lt;/b&gt;&lt;br&gt;NetApp&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=5;image=img/lib/active_directory/database.svg;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="1236.0000000000002" y="160" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="728" y="1429" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-46" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Reverse Proxy&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.60&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 32 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 260 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-106">
+          <mxGeometry width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-45" value="&lt;b&gt;Web Reverse Proxy &lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;NGINX" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;labelBorderColor=default;spacingTop=11;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-106">
+          <mxGeometry x="150" y="11" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="592" y="1785" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-43" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Landing Page Strapi&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.63&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 16 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hardd Disk : 13 GB&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-112">
+          <mxGeometry width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-42" value="&lt;b&gt;Landing Page&lt;/b&gt; /&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;Strapi" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-112">
+          <mxGeometry x="160" y="14" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="qvGo7-0NnfbWmTZy4n0L-39" target="qvGo7-0NnfbWmTZy4n0L-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-120" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="879" y="1590" width="188.26" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-121" value="&lt;b&gt;REST API&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Talend Runtime" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-120">
+          <mxGeometry y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-122" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Talend Runtime&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.63&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 32 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 120 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-120">
+          <mxGeometry x="48.25999999999999" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-145" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="884.13" y="2030" width="188.26" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-146" value="&lt;b&gt;REST API&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Talend Runtime" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-145">
+          <mxGeometry y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-147" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Talend Runtime&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.63&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 32 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 120 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-145">
+          <mxGeometry x="48.25999999999999" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-162" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="2350" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-130" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Download Manager&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.61&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 8 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 70 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-162">
+          <mxGeometry width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-131" value="&lt;b&gt;Download Manager&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;SFTPGo" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-162">
+          <mxGeometry x="160" y="14" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-163" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="684" y="2210" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-150" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Identity Access Management&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.39&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;RAM : 8 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 70 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-163">
+          <mxGeometry width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-152" value="&lt;b&gt;Identity Access Management&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Keycloak + ApacheDS" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-163">
+          <mxGeometry x="200" y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-141" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1320" y="2350" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-138" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Document Viewer&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Windows 2012 R2&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.10&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : unknown&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : unknown&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-141">
+          <mxGeometry x="59.25999999999999" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-139" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Document Viewer&lt;/b&gt;&lt;br&gt;.Net + IIS" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=6;fontSize=12;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-141">
+          <mxGeometry y="13" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-134" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1040" y="2350" width="209.00000000000023" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-127" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server INT HTML 5 Viewer&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.9&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : 16 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 70 GB&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-134">
+          <mxGeometry x="59.00000000000023" y="4" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-128" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Sub-Surface Viewer&lt;/b&gt;&lt;br&gt;INT Viewer + Tomcat" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=6;fontSize=12;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-134">
+          <mxGeometry y="15" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-164" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1040" y="2208" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-159" value="&lt;b&gt;Membersip Management&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;ERPNext" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-164">
+          <mxGeometry y="12" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-160" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Membership Management&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.12&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : unknown&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : unknown&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-164">
+          <mxGeometry x="51" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-170" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Sharing Folder Temp - 100 GB&lt;/b&gt;&lt;br&gt;NetApp&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=7;image=img/lib/active_directory/database.svg;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="684" y="2550" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-171" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Data Digital Storage&lt;/b&gt;&lt;br&gt;NetApp&lt;/span&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=5;image=img/lib/active_directory/database.svg;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1186.0000000000002" y="2550" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-181" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="279.9999999999999" y="2340" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-155" value="&lt;b&gt;Peminjaman Data&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;OpenCart" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-181">
+          <mxGeometry x="140" y="14" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-156" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server OpenCart&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Centos 7&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.8&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;RAM : 16 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 120 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-181">
+          <mxGeometry width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-186" value="Pelayanan/Operator/Support" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;labelBackgroundColor=default;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1558.26" y="2020" width="46" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-187" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-6.000000000000014" y="2210" width="246" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-173" value="&lt;b&gt;Rest/Adminitsration&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Talend Administration Center" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-187">
+          <mxGeometry x="196" y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-174" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Talend Administrator Center&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.69&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-family: Arial; background-color: initial;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;RAM : 60 GB&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 170 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-187">
+          <mxGeometry width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-179" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Talend Repository&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.71&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-family: Arial; background-color: initial;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;RAM : 16 GB&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 220 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-180" value="&lt;b&gt;Repository Code&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Portal &amp;amp; Talend - Nexus, Gitlab" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2220" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-188" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="483.26" y="2210" width="194.74" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-176" value="&lt;b&gt;Job&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;Talend Job" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=5;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-188">
+          <mxGeometry x="144.74" y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-177" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Talend Job&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.69&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;font-family: Arial; background-color: initial;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;RAM : 60 GB&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 120 GB&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-188">
+          <mxGeometry width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-189" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1320" y="2210" width="238.26" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-184" value="&lt;b&gt;Digital Access Management&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;DSpace 6.3 +&amp;nbsp;SolR&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-189">
+          <mxGeometry y="11" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-185" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Digital Access Management&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.72&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;RAM : 160 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 320 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-189">
+          <mxGeometry x="48.25999999999999" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-190" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1570" y="2210" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-91" value="&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server ArcGIS&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Ubuntu&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.31&lt;br style=&quot;font-size: 10px;&quot;&gt;RAM : unknown&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : unknown&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-190">
+          <mxGeometry x="60" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-92" value="&lt;b&gt;Map/Peta&lt;/b&gt;&lt;br&gt;ArcGIS" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=6;fontSize=12;labelBorderColor=default;spacingLeft=0;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-190">
+          <mxGeometry y="10" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-196" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="892" y="2520" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-168" value="&lt;b&gt;Database&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Oracle 11g R2 &amp;amp; PostgreSQL&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;labelBackgroundColor=default;html=1;spacingTop=10;fontSize=10;labelBorderColor=default;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-196">
+          <mxGeometry y="13" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qvGo7-0NnfbWmTZy4n0L-169" value="&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Server Database&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;OS : Rocky Linux 9&lt;br style=&quot;font-size: 10px;&quot;&gt;IP Address : 10.15.32.72&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 120%; margin-top: 0pt; margin-bottom: 0pt; direction: ltr; unicode-bidi: embed; vertical-align: baseline; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#67ab9f&quot;&gt;RAM : 64 GB&lt;br style=&quot;font-size: 10px;&quot;&gt;Hard Disk : 1020 GB&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=0;glass=0;rounded=0;fontSize=10;" vertex="1" parent="qvGo7-0NnfbWmTZy4n0L-196">
+          <mxGeometry x="50" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
