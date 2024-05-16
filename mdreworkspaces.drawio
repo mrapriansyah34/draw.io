@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T07:56:46.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.0.2" etag="kLz2yubpL2erC4WpNR5M" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T08:16:37.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LMuElWf_8kDSPycvIISR" version="24.4.2" type="github">
   <diagram name="Page-1" id="YPRMA6lDq0GKZgog6XVS">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="reaOoCbOVrc1V7JXwFW0-4" target="reaOoCbOVrc1V7JXwFW0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
+          <mxGeometry x="30" y="306" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="295.5" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-22" value="" style="group" vertex="1" connectable="0" parent="reaOoCbOVrc1V7JXwFW0-17">
+          <mxGeometry width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/386-Browser_Remove-128.png" vertex="1" parent="reaOoCbOVrc1V7JXwFW0-22">
+          <mxGeometry width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.globe;" vertex="1" parent="reaOoCbOVrc1V7JXwFW0-22">
+          <mxGeometry x="24.56" y="34.5" width="49.88" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.corporate_data_center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="283.92" width="83" height="122.15" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" edge="1" parent="1" source="reaOoCbOVrc1V7JXwFW0-16" target="reaOoCbOVrc1V7JXwFW0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-21" value="&lt;b&gt;HTTP(443)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="reaOoCbOVrc1V7JXwFW0-20">
+          <mxGeometry x="0.0414" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="150" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/386-Browser_Remove-128.png" vertex="1" parent="reaOoCbOVrc1V7JXwFW0-23">
+          <mxGeometry width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.globe;" vertex="1" parent="reaOoCbOVrc1V7JXwFW0-23">
+          <mxGeometry x="24.56" y="34.5" width="49.88" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-27" value="&lt;b&gt;MDRE Workspaces&lt;/b&gt;&lt;br&gt;(WebApp Services)&lt;br&gt;(REST API Services)&lt;br&gt;(CMS)&lt;br&gt;(DB Services)&lt;br&gt;(Talend)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349.75" y="440" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-28" value="Browser" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199.5" y="394.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-29" value="Users" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="394.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="reaOoCbOVrc1V7JXwFW0-30" value="Browser : IP Address Local&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="609.5" y="253.92" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
